@@ -1,3 +1,2 @@
-# hello-world
-My first repository
-This is a test to understand commit messages
+# Examples paper
+Location of code for examples paper 2
